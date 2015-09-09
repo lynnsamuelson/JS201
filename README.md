@@ -19,9 +19,7 @@ To have a database that you can access, go to:
 
     https://www.firebaseio.com/
     
-and make an account.
-
-Now you can open your browser and go to http://localhost:8081 (or whichever port it reports it is using).
+and make an account.  Replace the url to the firebase database on line 23 of main.js and line 6 of family.js.  Now you can open your browser and go to http://localhost:8081 (or whichever port it reports it is using).
 
 
 
